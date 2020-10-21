@@ -124,9 +124,4 @@ Element modifier:
 > .block__elem--mod { }
 > ```
 
-
-![github captions](logo)
-
 ![github captions](img/github_captions.jpg)
-
-[logo]: img/github_captions.jpg "Github Captions"
